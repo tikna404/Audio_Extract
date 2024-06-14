@@ -34,7 +34,7 @@ This project is a simple Python application that extracts audio from video files
     python main.py
     ```
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for detailed information.
 
 
 ### How to Customize
